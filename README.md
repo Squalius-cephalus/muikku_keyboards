@@ -17,7 +17,7 @@ Muikku58 is a RP2040 based 56-key column staggered split keyboard, that uses Red
  - 56 x Redragon low profile switches
  - 56 x Low profile MX compatible keycaps
  - 22 x M2 4mm bolt
- - 22 x M2 brass inserts()
+ - 22 x M2 brass inserts(M2xL3xOD3.2)
  - 12 x Rubber feet
 
 
@@ -39,7 +39,7 @@ Muikku18 is a 16-key macro pad, that also uses Redragon low profile switches.
  - 16 x Redragon low profile switches
  - 16 x Low profile MX compatible keycaps
  - 5 x M2 4mm bolt
- - 5 x M2 brass inserts()
+ - 5 x M2 brass inserts(M2xL3xOD3.2)
  - 6 x Rubber feet
 
 Both PCB design uses footprints from [ScottoKeebs](https://github.com/joe-scotto/scottokeebs/tree/main/Extras/ScottoKicad "ScottoKeebs") and [kbd library.](https://github.com/foostan/kbd "kbd library.")
