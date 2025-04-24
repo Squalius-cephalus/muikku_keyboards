@@ -14,11 +14,13 @@ Muikku58 is a RP2040 based 56-key column staggered split keyboard, that uses Red
  - 2 x 3D printed plate
  - 2 x 3D printed MCU cover
  - 2 x EC11 Rotary encoders
+ - 2  x TRRS connector(PJ320D)
  - 56 x Redragon low profile switches
  - 56 x Low profile MX compatible keycaps
  - 22 x M2 4mm bolt
  - 22 x M2 brass inserts(M2xL3xOD3.2)
  - 12 x Rubber feet
+
 
 
 # Muikku18
