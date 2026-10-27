@@ -41,6 +41,7 @@ Muikku18 is a 16-key macro pad, that also uses Redragon low profile switches.
  - 2 x EC11 Rotary encoders
  - 16 x Redragon low profile switches
  - 16 x Low profile MX compatible keycaps
+ - 18 x 1N4148 Diodes or 1N4148W SOD-123
  - 5 x M2 4mm bolt
  - 5 x M2 brass inserts(M2xL3xOD3.2)
  - 6 x Rubber feet
